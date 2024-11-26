@@ -1,0 +1,43 @@
+# Archivos generados por Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+# Archivos de compilación
+bin/
+obj/
+[Bb]uild/
+[Ll]ogs/
+
+# Configuración de paquetes
+*.nuget
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Archivos generados por Rider/JetBrains
+.idea/
+*.sln.iml
+
+# Configuración de publicación
+publish/
+*.PublishProfiles/
+
+# Archivos temporales del sistema operativo
+Thumbs.db
+ehthumbs.db
+*.DS_Store
+*.localized
+*.swp
+*.lock
+*.tmp
+
+# Archivos de seguridad y configuración
+*.key
+*.pfx
+*.snk
+appsettings.Development.json
+appsettings.Local.json
